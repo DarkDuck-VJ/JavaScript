@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+    color: white;
+
+}
+header{
+    font: normal 20pt Arial Black;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    height: 70px;
+    width: 450px;
+}
+section{
+    position: relative;
+    margin: auto;
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+}
+section div#horas{
+    position: relative;
+    margin: auto;
+    top: 40px;
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 300px;
+}
+section div#imagem{
+    position: relative;
+    margin: auto;
+    top: 60px;
+    height: 200px;
+    width: 200px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+footer{
+    font: bold 13px Arial;
+    position: relative;
+    text-align: center;
+}
